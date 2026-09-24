@@ -1,27 +1,272 @@
-# 💫 About Me:
-Building  <br>AI-powered surveillance and computer-vision systems<br><br>Exploring  <br>Cybersecurity, AI, computer vision & distributed systems<br><br>Working with  <br>Python · TypeScript · React · FastAPI · Docker · PostgreSQL<br><br>Currently learning  <br>Kubernetes · AWS · System Design<br><br>Interested in  <br>Building useful products from ideas, prototypes, and experiments<br><br>Fun fact  <br>I usually start with “just a small project” and somehow end up building the entire system.
+<div align="center">
 
+# INNYAVELAN
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/innya_velan_14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innyavelan-d/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/InnyaD86696) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:innya07@gmail.com) 
+### Full Stack Developer · AI · Computer Vision · Cybersecurity
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=innya07-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=innya07-prog&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=innya07-prog&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  Building practical products across software, AI, computer vision, and security.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=innya07-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://innyavelan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-innyavelan.dev-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/innyavelan-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/innya07-prog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:innya07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00B4D8&height=120&section=header" width="100%" alt="Header">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=innya07-prog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+## About Me
+
+I'm a **Full Stack Developer** interested in building systems that combine strong engineering with practical AI capabilities.
+
+My work spans:
+
+- Full-stack web application development
+- AI and computer vision
+- Cybersecurity and network security
+- Backend APIs and databases
+- Docker, Kubernetes, and cloud infrastructure
+- Rapid prototyping and turning ideas into working products
+
+I'm currently focused on improving how AI-powered applications are **built, deployed, monitored, and scaled**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=innya07-prog&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm Building
+
+### 🔭 AI-Powered Computer Vision
+
+Working on **Nokki AI**, an AI-powered surveillance platform focused on real-time video intelligence, detection, tracking, and event-driven monitoring.
+
+**Focus:** Computer Vision · AI Inference · Backend Systems · Deployment
+
+> Project details are intentionally kept high-level while the product is in development.
+
+### 📚 Cybersecurity
+
+Pursuing a **Post Graduate Diploma in Cybersecurity at BITS Pilani** while strengthening my foundations in networking, security, infrastructure, and secure system design.
+
+### 🚀 Product Development
+
+I enjoy taking an idea from:
+
+`Concept → Prototype → Product → Deployment`
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Nokki AI
+
+AI-powered surveillance and video intelligence platform.
+
+**Focus**
+- Person detection & tracking
+- Computer vision pipelines
+- Real-time event processing
+- Backend APIs
+- GPU-accelerated inference
+- Dockerized deployment
+
+**Stack**
+
+`Python` `FastAPI` `YOLO` `OpenCV` `PostgreSQL` `Docker` `TensorRT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Kadhaster
+
+A personalized children's storybook product where the child becomes part of the story.
+
+**Focus**
+- Personalized storytelling
+- Product development
+- Interactive experiences
+- UI/UX
+- Content systems
+
+**Stack**
+
+`React` `TypeScript` `Python` `UI/UX`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision Projects
+
+Hands-on work across detection, OCR, tracking, pose estimation, and video analysis.
+
+**Focus**
+
+`YOLO` `OpenCV` `OCR` `MediaPipe` `PyTorch`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+Currently expanding my security foundations through academic work and hands-on learning.
+
+**Focus**
+
+`Networking` `Linux` `Web Security` `Cloud Security` `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,go,php,bash,sql" alt="Languages">
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" alt="Frontend">
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mysql" alt="Backend and databases">
+</p>
+
+### AI & Computer Vision
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI and computer vision">
+</p>
+
+### DevOps, Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman,linux" alt="DevOps cloud and tools">
+</p>
+
+### Design & 3D
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,threejs" alt="Design and 3D">
+</p>
+
+---
+
+## Currently Learning
+
+```text
+Kubernetes
+AWS
+System Design
+Cybersecurity
+Scalable AI Deployment
+```
+
+My current goal is to understand not only how to build software, but also how to **deploy, secure, monitor, and scale it properly**.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/innya07-prog">
+  <img src="https://github-readme-stats.vercel.app/api?username=innya07-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/innya07-prog">
+  <img src="https://streak-stats.demolab.com?user=innya07-prog&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak">
+</a>
+
+<br>
+
+<a href="https://github.com/innya07-prog">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innya07-prog&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+</a>
+
+</div>
+
+---
+
+## A Few Things I Like Building
+
+```text
+AI Systems             ████████████████████
+Computer Vision        ██████████████████
+Full Stack Applications██████████████████
+Cybersecurity          ███████████████
+Cloud & Infrastructure █████████████
+```
+
+> I usually start with “just a small project” and somehow end up building the entire system.
+
+---
+
+## Certifications & Learning
+
+- **Meta Front-End Developer**
+- **Google UX Design**
+- **Post Graduate Diploma in Cybersecurity — BITS Pilani**
+- **NVIDIA Deep Learning Institute — Computer Vision Fundamentals**
+- **Docker & Kubernetes Fundamentals**
+- **Python Programming Masterclass**
+- **PostgreSQL**
+- **PHP**
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://innyavelan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/innyavelan-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/innya_velan_14">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:innya07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=innya07-prog&style=flat-square&color=0e75b6)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0F172A&height=100&section=footer" width="100%" alt="Footer">
+
+</div>
