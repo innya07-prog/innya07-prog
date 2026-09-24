@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building  <br>AI-powered surveillance and computer-vision systems<br><br>🧠 Exploring  <br>Cybersecurity, AI, computer vision & distributed systems<br><br>⚙️ Working with  <br>Python · TypeScript · React · FastAPI · Docker · PostgreSQL<br><br>🚀 Currently learning  <br>Kubernetes · AWS · System Design<br><br>💡 Interested in  <br>Building useful products from ideas, prototypes, and experiments<br><br>☕ Fun fact  <br>I usually start with “just a small project” and somehow end up building the entire system.
+Building  <br>AI-powered surveillance and computer-vision systems<br><br>Exploring  <br>Cybersecurity, AI, computer vision & distributed systems<br><br>Working with  <br>Python · TypeScript · React · FastAPI · Docker · PostgreSQL<br><br>Currently learning  <br>Kubernetes · AWS · System Design<br><br>Interested in  <br>Building useful products from ideas, prototypes, and experiments<br><br>Fun fact  <br>I usually start with “just a small project” and somehow end up building the entire system.
 
 
 ## 🌐 Socials:
